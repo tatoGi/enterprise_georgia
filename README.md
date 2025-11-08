@@ -197,7 +197,3 @@ resources/views/
 routes/
 └── web.php                        # All application routes
 ```
-
-## License
-
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
